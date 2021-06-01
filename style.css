@@ -26,3 +26,15 @@ body, html{
   height: 100%;
   width: 100%;
 }
+.carousel .carousel-item .red {
+  background-color:white;
+}
+.carousel .carousel-item .green {
+  background-color:white;
+}
+.carousel .carousel-item .yellow {
+  background-color: white;
+}
+.carousel .carousel-item .violet {
+  background-color:white;
+}
